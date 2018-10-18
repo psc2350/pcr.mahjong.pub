@@ -4,4 +4,4 @@
 
 [花鸟风月杯](hnfy.md)
 
-[gimmick:ThemeChooser](更改主题)
+[gimmick:ThemeChooser](THEME)
