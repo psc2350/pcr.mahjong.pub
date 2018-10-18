@@ -1,4 +1,4 @@
-# MajhongWiki
+# 高校联赛
 
 [首页](index.md)
 
