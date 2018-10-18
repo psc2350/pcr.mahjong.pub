@@ -2,8 +2,6 @@
 
 [首页](index.md)
 
-[算符練習](fupractice.html)
-
-[gimmick:Disqus](lietxia)
+[花鸟风月杯](hnfy.md)
 
 [gimmick:ThemeChooser](更改主题)
