@@ -2,5 +2,6 @@
     "useSideMenu": true,
     "lineBreaks": "gfm",
     "additionalFooterText": " ",
-    "anchorCharacter": "#"
+    "anchorCharacter": "#",
+    "title":"高校联赛"
 }
