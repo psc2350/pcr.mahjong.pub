@@ -21,24 +21,23 @@
 
 全国大赛"红莲"组积分循环赛赛程表
 
-  ------ --------- ------ ----------
-  轮次   对决      轮空   对战时间
-  1      C-D-E-F   AB     
-  2      A-B-E-F   CD     
-  3      A-B-C-D   EF     
-  4      B-D-E-F   AC     
-  5      A-B-C-E   DF     
-  6      A-C-D-F   BE     
-  7      B-C-E-F   AD     
-  8      A-C-D-E   BF     
-  9      A-B-D-F   CE     
-  10     B-C-D-F   AE     
-  11     A-B-D-E   CF     
-  12     A-C-E-F   BD     
-  13     B-C-D-E   AF     
-  14     A-B-C-F   DE     
-  15     A-D-E-F   BC     
-  ------ --------- ------ ----------
+| -- | ------- | -- | ---- |
+| 轮次 | 对决      | 轮空 | 对战时间 |
+| 1  | C-D-E-F | AB |      |
+| 2  | A-B-E-F | CD |      |
+| 3  | A-B-C-D | EF |      |
+| 4  | B-D-E-F | AC |      |
+| 5  | A-B-C-E | DF |      |
+| 6  | A-C-D-F | BE |      |
+| 7  | B-C-E-F | AD |      |
+| 8  | A-C-D-E | BF |      |
+| 9  | A-B-D-F | CE |      |
+| 10 | B-C-D-F | AE |      |
+| 11 | A-B-D-E | CF |      |
+| 12 | A-C-E-F | BD |      |
+| 13 | B-C-D-E | AF |      |
+| 14 | A-B-C-F | DE |      |
+| 15 | A-D-E-F | BC |      |
 
 3.  易组对抗赛
 
