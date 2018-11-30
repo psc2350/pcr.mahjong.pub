@@ -629,9 +629,9 @@
     }
 
     function extractHashData() {
-        // first char is the # or !#
+        // first char is the # or #!
         var href;
-        if (window.location.hash.startsWith('!#')) {
+        if (window.location.hash.startsWith('#!')) {
             href = window.location.hash.substring(2);
         } else {
             href = window.location.hash.substring(1);
