@@ -4,7 +4,9 @@
 > ["花鸟风月"记·二十四校本纪·序](bj.md)  
 > [花鸟风月杯比赛日程](day.md)  
 > [【花鳥風月】積分榜](pt.md)  
-> [【花鳥風月】直播間](https://live.bilibili.com/8170380)
+> [【花鳥風月】直播間](https://live.bilibili.com/8170380)  
+> [【花鳥風月】对战记录](https://docs.qq.com/sheet/DR0hBYXJSd3hoVXVK)
+
 
 ## 参赛学校相关资料 
 > [总群（水群）606313729](https://jq.qq.com/?_wv=1027&k=5AtCCIw)
