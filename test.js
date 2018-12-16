@@ -1,1 +1,1 @@
-console.log(window.localhost)
+console.log(window.location)
