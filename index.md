@@ -5,7 +5,7 @@
 > [花鸟风月杯比赛日程](day.md)  
 > [【花鳥風月】積分榜](pt.md)  
 > [【花鳥風月】直播間](https://live.bilibili.com/8170380)  
-> [【花鳥風月】对战记录](https://docs.qq.com/sheet/DR0hBYXJSd3hoVXVK)
+> [【花鳥風月】BAN记录](ban.md)
 
 ## 参赛学校相关资料
 
