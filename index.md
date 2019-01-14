@@ -6,6 +6,9 @@
 > [【花鳥風月】積分榜](pt.md)  
 > [【花鳥風月】直播間](https://live.bilibili.com/8170380)  
 > [【花鳥風月】BAN记录](ban.md)  
+> [【花鳥風月】MVP记录](mvp.md)  
+----
+
 > [【花鳥風月】比赛记录](https://mahjong.pub/?cid=37)
 
 ## 参赛学校相关资料
