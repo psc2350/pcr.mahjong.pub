@@ -13,7 +13,9 @@
      第1組1，2名對局第2組3，4名。
      （注意這裡的＂組＂＂輪＂等量詞）
 ## 添加書籤
- 以Chrome 為例子
- chrome://bookmarks/
- 添加書籤
-![Image of Bookmark](https://i.imgur.com/i4ZUAhh.png)
+ 以Chrome 為例子  
+ chrome://bookmarks/  
+ 添加書籤  
+![Image of Bookmark](https://i.imgur.com/i4ZUAhh.png)  
+ 添加URL  
+ URL：javascript:void((function(){var e = document.createElement('script');e.setAttribute('src', 'https://lietxia.github.io/maj/dhs.js');document.body.appendChild(e);})());  
