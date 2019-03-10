@@ -20,6 +20,7 @@
 
      chrome://bookmarks/  
     
+![Image of Bookmark2](https://i.imgur.com/2U2nztM.png)
 
  添加URL  
 
