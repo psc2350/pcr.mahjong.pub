@@ -35,14 +35,20 @@
      http://000.mk/?cid=賽事ID  
 登入，輸入創建隊伍時的密碼  
 ## 大鳳林javascript 輔助腳本介紹
+
 開啟新標籤頁  
 打開之前創的書籤  
 點擊OK 後，會看到下圖：  
+
 ![Image of Logo](https://i.imgur.com/pfm98dp.png)  
+
 在這個畫面再次開啟之前創的書籤，會跳轉至雀魂賽事後台。  
 下面有大鳳林javascript 輔助腳本。  
+
 ![Image of Dashboard](https://i.imgur.com/NVgU7IK.png)  
+
 登入自己的雀魂帳號  
 在下方的大鳳林javascript 輔助腳本輸入  
 賽事ID，回合，日期，賽事密碼，並且點擊右邊的重載數據。  
+
 ![Image of script](https://i.imgur.com/tUFJzOJ.png)  
