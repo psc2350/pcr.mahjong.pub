@@ -6,4 +6,6 @@
 
 [开赛员培训手册](admin.md)
 
+[历届赞助清单](sponsors.md)
+
 [gimmick:ThemeChooser](THEME)
