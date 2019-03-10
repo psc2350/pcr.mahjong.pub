@@ -52,3 +52,28 @@
 賽事ID，回合，日期，賽事密碼，並且點擊右邊的重載數據。  
 
 ![Image of script](https://i.imgur.com/tUFJzOJ.png)  
+
+## 讀取牌普
+
+上一步驟腳本所能自動填寫的技城分數來源於這一步驟所讀取的牌普。  
+讀取的數據會上傳至大鳳林作者小模的服務器，並顯示在大鳳林網站上。  
+
+![Image of loadrecord](https://i.imgur.com/QQcBSZi.png)  
+
+點擊腳本的『讀取牌普』即可。  
+待腳本將牌普讀取完畢，右邊會出現牌普信息，點擊發送後，會出現發送完畢的消息。  
+
+![Image of sentrecord](https://i.imgur.com/Ofj4SD8.png)  
+
+## 開始對局
+參賽選手全準備好之後  
+點擊開始某個組  
+
+![Image of startgame](https://i.imgur.com/iHWxkuh.png)  
+
+選擇所要開始對局的組，將會顯示要開始對局的選手，以及所繼承的分數。  
+![Image of groupselection](https://i.imgur.com/Wnb4oWi.png)  
+
+點擊開始之後  
+腳本會替操盤手自動添加選手，並且自動填寫繼承的分數。  
+代腳本結束動作，操盤手只需要填寫標籤，並點擊雀魂後台的『對局開始』即可。  
