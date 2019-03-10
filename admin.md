@@ -18,4 +18,4 @@
  添加書籤  
 ![Image of Bookmark](https://i.imgur.com/i4ZUAhh.png)  
  添加URL  
- URL：javascript:void((function(){var e = document.createElement('script');e.setAttribute('src', 'https://lietxia.github.io/maj/dhs.js');document.body.appendChild(e);})()); 
+ URL：javascript:void((function(){var e = document.createElement('script');e.setAttribute('src', 'https://lietxia.github.io/maj/dhs.js');document.body.appendChild(e);})());  
