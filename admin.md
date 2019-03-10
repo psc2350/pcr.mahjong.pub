@@ -24,4 +24,4 @@
 
  添加URL  
 
-     URL：javascript:void((function(){var e = document.createElement('script');e.setAttribute('src', 'https://lietxia.github.io/maj/dhs.js');document.body.appendChild(e);})());  
+     javascript:void((function(){var e = document.createElement('script');e.setAttribute('src', 'https://lietxia.github.io/maj/dhs.js');document.body.appendChild(e);})());  
