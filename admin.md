@@ -72,6 +72,7 @@
 ![Image of startgame](https://i.imgur.com/iHWxkuh.png)  
 
 選擇所要開始對局的組，將會顯示要開始對局的選手，以及所繼承的分數。  
+
 ![Image of groupselection](https://i.imgur.com/Wnb4oWi.png)  
 
 點擊開始之後  
