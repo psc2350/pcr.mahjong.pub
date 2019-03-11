@@ -27,7 +27,7 @@
      javascript:void((function(){var e = document.createElement('script');e.setAttribute('src', 'https://lietxia.github.io/maj/dhs.js');document.body.appendChild(e);})());  
 ## 添加队员
 
-方法1；後台添加  
+方法1：後台添加  
 
      其他管理 → 查看全部組別信息 → 点击队伍名  
 方法2：登入添加  
