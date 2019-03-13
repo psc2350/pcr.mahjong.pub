@@ -6,6 +6,8 @@
 
 [创立史](bj.md)
 
+[赛事日程](day.md)
+
 [开赛员培训手册](admin.md)
 
 [历届赞助清单](sponsors.md)
