@@ -25,9 +25,9 @@
 
 > [总群（水群）472802559](https://jq.qq.com/?_wv=1027&k=5ZhVOaB)
 
-<figure class="video_container">
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRbJAZ8gPJnFa7IwRVk-BcDrvHhS-qdWl25rQe-MzPcSQz0Sp0IchgcQFPtgtOqXWLFZDArbkFpqVwo/pubhtml/sheet?headers=false&gid=0&range=A1:H33" width="100%" style="height: -webkit-fill-available"></iframe>
-</figure>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRbJAZ8gPJnFa7IwRVk-BcDrvHhS-qdWl25rQe-MzPcSQz0Sp0IchgcQFPtgtOqXWLFZDArbkFpqVwo/pubhtml/sheet?headers=false&gid=0&range=A1:H33" frameborder="0" style="overflow:hidden;height:100%;width:100%" height="100%" width="100%">
+</iframe>
 
 **下届人数说明：**
 
