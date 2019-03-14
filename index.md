@@ -61,7 +61,9 @@
 | 31   | 点心屋     | **602914693** |龙渊|【プリコネR】艾多瑪的點心屋| 5/5        |  是   |3|
 | 32   | 奈央同萌会     | **314688976** |popcorn|【プリコネR】奈央同萌会| 5/5        |  是   |4|
 
+<figure class="video_container">
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRbJAZ8gPJnFa7IwRVk-BcDrvHhS-qdWl25rQe-MzPcSQz0Sp0IchgcQFPtgtOqXWLFZDArbkFpqVwo/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+</figure>
 
 **下届人数说明：**
 
