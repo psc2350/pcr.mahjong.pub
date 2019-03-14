@@ -23,7 +23,7 @@
 
 > [总群（水群）472802559](https://jq.qq.com/?_wv=1027&k=5ZhVOaB)
 
-<iframe src="sheets/guild.html" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:900;width:150%" height="900" width="150%"></iframe>
+<iframe src="/sheets/guild.html" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:900;width:150%" height="900" width="150%"></iframe>
 
 **下届人数说明：**
 
