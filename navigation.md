@@ -11,5 +11,3 @@
 [历届赞助清单](sponsors.md)
 
 [开赛员培训手册](admin.md)
-
-[gimmick:ThemeChooser](THEME)
