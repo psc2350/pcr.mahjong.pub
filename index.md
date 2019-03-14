@@ -17,17 +17,13 @@
 ## 赞助清单
 #### 感谢下列赞助商对本赛事的大力支持
 
-### NGA论坛版主
-
-
+###  [历届赞助清单](sponsors.md)  
 
 ## 参赛公会相关资料
 
 > [总群（水群）472802559](https://jq.qq.com/?_wv=1027&k=5ZhVOaB)
 
-<body style="margin:0px;padding:0px;overflow:hidden">
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRbJAZ8gPJnFa7IwRVk-BcDrvHhS-qdWl25rQe-MzPcSQz0Sp0IchgcQFPtgtOqXWLFZDArbkFpqVwo/pubhtml/sheet?headers=false&gid=0&range=A1:H33"  frameborder="0"  width="100%" style="height: -webkit-fill-available"></iframe>
-</body>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRbJAZ8gPJnFa7IwRVk-BcDrvHhS-qdWl25rQe-MzPcSQz0Sp0IchgcQFPtgtOqXWLFZDArbkFpqVwo/pubhtml/sheet?headers=false&gid=0&range=A1:H33" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:920;width:150%" height="920" width="150%"></iframe>
 
 **下届人数说明：**
 
