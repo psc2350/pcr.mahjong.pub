@@ -62,7 +62,7 @@
 | 32   | 奈央同萌会     | **314688976** |popcorn|【プリコネR】奈央同萌会| 5/5        |  是   |4|
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRbJAZ8gPJnFa7IwRVk-BcDrvHhS-qdWl25rQe-MzPcSQz0Sp0IchgcQFPtgtOqXWLFZDArbkFpqVwo/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRbJAZ8gPJnFa7IwRVk-BcDrvHhS-qdWl25rQe-MzPcSQz0Sp0IchgcQFPtgtOqXWLFZDArbkFpqVwo/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" width="1100" height="925" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
 **下届人数说明：**
