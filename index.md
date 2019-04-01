@@ -6,8 +6,7 @@
 > [瓜皮型嚶花庄雀魂赛事·历届赞助清单](sponsors.md)  
 > [开赛员培训手册](admin.md)  
 > [瓜皮型嚶花庄雀魂赛事·直播間A](https://live.bilibili.com/21168095)  
-> [瓜皮型嚶花庄雀魂赛事·直播間B](https://live.bilibili.com/21181660
-)  
+> [瓜皮型嚶花庄雀魂赛事·直播間B](https://live.bilibili.com/21181660)  
 ----
 
 > [第一届瓜皮型嚶花庄雀魂赛事·比赛记录](https://mahjong.pub/?cid=42)  
